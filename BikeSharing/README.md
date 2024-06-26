@@ -18,8 +18,20 @@ Further, the model will be a good way for management to understand the demand dy
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-odel the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
-
+ Fall season seems to have attracted more booking. And, in each season the 
+booking count has increased drastically from 2018 to 2019.
+ Most of the bookings has been done during the month of may, june, july, aug, sep 
+and oct. Trend increased starting of the year till mid of the year and then it 
+started decreasing as we approached the end of year.
+ Clear weather attracted more booking which seems obvious.
+ Thu, Fir, Sat and Sun have more number of bookings as compared to the start of 
+the week.
+ When it’s not holiday, booking seems to be less in number which seems 
+reasonable as on holidays, people may want to spend time at home and enjoy 
+with family.
+ Booking seemed to be almost equal either on working day or non-working day.
+ 2019 attracted more number of booking from the previous year, which shows 
+good progress in terms of business
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
